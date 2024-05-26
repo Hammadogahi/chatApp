@@ -11,12 +11,12 @@ import {useCollectionData} from 'react-firebase-hooks/firestore'
 
 
 firebase.initializeApp({
-  apiKey: "AIzaSyCPvUA3hqNu4izvMt882ItTmo9WdKrjYKc",
-  authDomain: "chat-app-d0846.firebaseapp.com",
-  projectId: "chat-app-d0846",
-  storageBucket: "chat-app-d0846.appspot.com",
-  messagingSenderId: "346871909291",
-  appId: "1:346871909291:web:5f9138df4bdb3c5c3ae0ee"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ""
 })
 
 
